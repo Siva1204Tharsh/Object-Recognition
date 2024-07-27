@@ -42,8 +42,8 @@ while(True):
 
             label="{} {:.2f}".format(CLASSES[idx],confidence*100)
             cv2.rectangle(frame,(startX,startY),(endX,endY),COLORS[idx],2)
-            if startY -15 >15:
-                y =startY-15
+            if startY -15 > 15:
+                y = startY-15
             else:
                 startY+15
             cv2.putText(frame,label,(startX,y),cv2.FONT_HERSHEY_SIMPLEX,0.5,COLORS[idx],2)
