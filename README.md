@@ -3,6 +3,13 @@ Object recognition is a computer vision technique for identifying objects in ima
 
 Helps to load pre-trained Model from DL frameworks such as TensorFlow , Caffe , Darknet , Torch
 
+## MobileNet SSD Architecture
+
+![image](https://github.com/user-attachments/assets/13658358-494d-4237-88ec-79cae09362ee)
+
+
+![image](https://github.com/user-attachments/assets/9a712f25-ccd6-47de-bc74-802ad2485444)
+
 
 
 
